@@ -1,0 +1,16 @@
+{
+  "name": "Pronote-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index copy 2.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UnelDev",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "puppeteer": "^19.3.0",
+    "ts-node": "^10.9.1"
+  }
+}
